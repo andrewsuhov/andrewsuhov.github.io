@@ -1,0 +1,31 @@
+{
+  "short_name": "Andrew",
+  "name": "Hi, my name is Andrew",
+  "icons": [
+    {
+      "src": "../img/icons/png/launcher-icon-1x.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "../img/icons/png/launcher-icon-2x.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "../img/icons/png/launcher-icon-4x.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "../img/icons/png/launcher-icon-8x.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    }
+  ],
+  "start_url": "index.html?utm_source=homescreen",
+  "theme_color": "#795649",
+  "background_color": "#448aAFF",
+  "orientation": "portrait",
+  "display": "standalone"
+}
