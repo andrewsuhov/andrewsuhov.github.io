@@ -23,7 +23,7 @@
       "sizes": "384x384"
     }
   ],
-  "start_url": "index.html?utm_source=homescreen",
+  "start_url": "../index.html?utm_source=homescreen",
   "theme_color": "#795649",
   "background_color": "#448AFF",
   "orientation": "portrait",
