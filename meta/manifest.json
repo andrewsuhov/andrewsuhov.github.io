@@ -25,7 +25,7 @@
   ],
   "start_url": "index.html?utm_source=homescreen",
   "theme_color": "#795649",
-  "background_color": "#448aAFF",
+  "background_color": "#448AFF",
   "orientation": "portrait",
   "display": "standalone"
 }
