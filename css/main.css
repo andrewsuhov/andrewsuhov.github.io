@@ -21,7 +21,7 @@ img {
 }
 .mdl-layout__header-row .mdl-navigation__link:hover {
   border-bottom: 4px solid;
-  border-bottom-color: initial; 
+  border-bottom-color: #448AFF; 
 }
 .personal-content {
   max-width: 900px;
