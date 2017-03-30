@@ -27,6 +27,9 @@ img {
   max-width: 900px;
   margin: auto;
 }
+.no-padding {
+    padding: 0;
+}
 #social {
   position: fixed;
   display: block;
