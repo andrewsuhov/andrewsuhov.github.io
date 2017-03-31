@@ -33,6 +33,9 @@ img {
 .fa {
   vertical-align: middle;
 }
+.mdl-speed-dial {
+  position: fixed;
+}
 #icon-twitter {
   background: #1da1f2;
 }
