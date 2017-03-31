@@ -23,6 +23,9 @@ img {
   border-bottom: 4px solid;
   border-bottom-color: #448AFF; 
 }
+.mdl-mini-footer {
+  background-color: white;
+}
 .personal-content {
   max-width: 900px;
   margin: auto;
