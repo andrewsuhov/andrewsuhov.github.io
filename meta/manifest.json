@@ -3,22 +3,22 @@
   "name": "Hi, my name is Andrew",
   "icons": [
     {
-      "src": "../img/icons/png/launcher-icon-1x.png",
+      "src": "../images/icons/png/launcher-icon-1x.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "../img/icons/png/launcher-icon-2x.png",
+      "src": "../images/icons/png/launcher-icon-2x.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "../img/icons/png/launcher-icon-4x.png",
+      "src": "../images/icons/png/launcher-icon-4x.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "../img/icons/png/launcher-icon-8x.png",
+      "src": "../images/icons/png/launcher-icon-8x.png",
       "type": "image/png",
       "sizes": "384x384"
     }
